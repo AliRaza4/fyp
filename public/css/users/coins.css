@@ -1,0 +1,49 @@
+.coins-cards {
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.coins-container {
+    background-color: #F9F9FA;
+}
+
+.top-card-coins {
+    padding: 20px 30px 40px 30px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 5px gray;
+    background-color: #FFFFFF;
+}
+.card-coins-top-row {
+    margin: 20px 0;
+}
+.card-coins-top-row-left-col {
+    padding: 10px 30px;
+}
+.card-coins-top-row-right-col {
+    border-radius: 5px;
+    background: linear-gradient(to right, #6f42c1, #6610f2 );
+    color: white;
+    text-align: center;
+}
+.coins-card-vol {
+    color: gray;
+}
+.coins-card-percentage {
+    color: #44ce83;
+}
+.coins-card-buy-btn {
+    background-color: #5C00D4;
+    width: 100%;
+}
+.card-coins-bottom-row {
+    padding: 0!important;
+}
+
+.card-coins-bottom-row-left-col {
+    padding: 0 20px!important;
+}
+
+.card-coins-bottom-row-right-col {
+    padding: 0!important;
+    margin-left: -5px;
+}

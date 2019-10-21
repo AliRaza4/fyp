@@ -1,0 +1,49 @@
+.dashboard-cards {
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.dashboard-container {
+    background-color: #F9F9FA;
+}
+
+.top-card-dashboard {
+    padding: 20px 30px 40px 30px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 5px gray;
+    background-color: #FFFFFF;
+}
+.card-dashboard-top-row {
+    margin: 20px 0;
+}
+.card-dashboard-top-row-left-col {
+    padding: 10px 30px;
+}
+.card-dashboard-top-row-right-col {
+    border-radius: 5px;
+    background: linear-gradient(to right, #6f42c1, #6610f2 );
+    color: white;
+    text-align: center;
+}
+.dashboard-card-vol {
+    color: gray;
+}
+.dashboard-card-percentage {
+    color: #44ce83;
+}
+.dashboard-card-buy-btn {
+    background-color: #5C00D4;
+    width: 100%;
+}
+.card-dashboard-bottom-row {
+    padding: 0!important;
+}
+
+.card-dashboard-bottom-row-left-col {
+    padding: 0 20px!important;
+}
+
+.card-dashboard-bottom-row-right-col {
+    padding: 0!important;
+    margin-left: -5px;
+}
